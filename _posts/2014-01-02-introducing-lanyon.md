@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Ishaan Paranjape
 ---
 
 Hi! I'm a PhD student in the [Computational Media department](https://www.soe.ucsc.edu/departments/computational-media) at UC Santa Cruz. I work at the [Augmented Design Lab](https://github.com/AugmentedDesignLab). 
