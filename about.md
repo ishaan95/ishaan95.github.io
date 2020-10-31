@@ -25,5 +25,5 @@ Here's a list of my public profiles across the web based on topics I'm intereste
 * [Stackoverflow](https://stackoverflow.com/users/9114998/ishaan?tab=profile)
 * [Unreal Engine Answerhub](https://answers.unrealengine.com/users/732106/view.html)
 
-####
+#### Blogs
 * [Medium](https://medium.com/@ishaan.paranjape)
