@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Ishaan Paranjape
 tagline:             'PhD student, Computational Media at UC Santa Cruz'
 # description:         'Personal website of Ishaan Paranjape'
-url:                 https://ishaan95.github.io
-baseurl:             ''
+url:                 https://ishaan95.github.io/about/
+baseurl:             https://ishaan95.github.io
 paginate:            5
 
 # About/contact
