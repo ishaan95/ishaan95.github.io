@@ -3,6 +3,13 @@ layout: default
 title: Home
 ---
 
+ {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title == "About" %}
+          {{ node.content }}
+      {% endif %}
+    {% endfor %}
+
 <!--div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
