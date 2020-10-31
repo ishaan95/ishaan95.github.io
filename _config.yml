@@ -5,10 +5,10 @@ permalink:           pretty
 
 # Setup
 title:               Ishaan Paranjape
-tagline:             'PhD student, Computational Media at UC Santa Cruz'
-# description:         'Personal website of Ishaan Paranjape'
-url:                 https://ishaan95.github.io/about/
-baseurl:             https://ishaan95.github.io
+tagline:             'UC Santa Cruz'
+description:         'Personal website of Ishaan Paranjape'
+url:                 https://ishaan95.github.io
+baseurl:             ''
 paginate:            5
 
 # About/contact
