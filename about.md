@@ -11,29 +11,9 @@ I enjoy teaching and have been involved as a TA for courses ranging from compute
 
 A major strength of mine is the ability to work in teams. Currently, our team at the Augmented Design Lab includes graduate as well as undergraduate students.
 
-### Important documents
+### Important links
 * [Resume](https://drive.google.com/file/d/1zgUQ6T6ppcAPYZEdVBllSv4fRVWaSzhU/view?usp=sharing)
 * [CV](https://drive.google.com/file/d/1wSSHHOhPEksUcarIdWK0ZzWrgwMJJqLV/view?usp=sharing)
-
-### Profiles
-Here's a list of my public profiles across the web based on topics I'm interested in:
-
-#### Social Media
+* [Github](https://github.com/ishaan95)
 * [Twitter](https://twitter.com/ishaan_ishaan)
 * [LinkedIn](https://www.linkedin.com/in/ishaan-paranjape-10829b13a/)
-* [Instagram](https://www.instagram.com/mytravelaventure/)
-
-#### Code Repositories
-* [Github](https://github.com/ishaan95)
-
-#### Videos
-* [YouTube](https://youtube.com/channel/UC_1JIt8uN6qTVzIhXFABQyA)
-
-#### Forums
-* [Quora](https://www.quora.com/profile/Ishaan-Paranjape)
-* [CARLA simulator forum](https://forum.carla.org/u/ishaan)
-* [Stackoverflow](https://stackoverflow.com/users/9114998/ishaan?tab=profile)
-* [Unreal Engine Answerhub](https://answers.unrealengine.com/users/732106/view.html)
-
-#### Blogs
-* [Medium](https://medium.com/@ishaan.paranjape)
