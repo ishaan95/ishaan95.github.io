@@ -12,6 +12,7 @@ I enjoy teaching and have been involved as a TA for courses ranging from compute
 A major strength of mine is the ability to work in teams. Currently, our team at the Augmented Design Lab includes graduate as well as undergraduate students.
 
 ### Important links
+* [My project portfolio](ishaan95.github.io/_posts/project_portfolio.md)
 * [Resume](ishaan95.github.io/assets/Ishaan_Resume.pdf)
 * [CV](https://drive.google.com/file/d/1wSSHHOhPEksUcarIdWK0ZzWrgwMJJqLV/view?usp=sharing)
 * [Github](https://github.com/ishaan95)
