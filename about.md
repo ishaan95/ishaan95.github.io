@@ -21,7 +21,7 @@ Cruzway is a system that supports and creates scenarios for testing autonomous v
 Built on top of Cruzway, EvoScenario uses evolutionary algorithms to generate road intersections. The fitness function is the forking points metric; each point of the road splitting into multiple roads counts as a forking point. EvoScenario additionally also procedurally places vehicles on top of the generated intersections.  
 
 ### Important links
-* [Resume](ishaan95.github.io/assets/Ishaan_Resume.pdf)
+* [Resume](assets/Ishaan_Resume02.pdf)
 * [CV](https://drive.google.com/file/d/1wSSHHOhPEksUcarIdWK0ZzWrgwMJJqLV/view?usp=sharing)
 * [Github](https://github.com/ishaan95)
 * [Twitter](https://twitter.com/ishaan_ishaan)
