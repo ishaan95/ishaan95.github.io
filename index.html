@@ -12,18 +12,18 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-    {% if post.title == "Project Portfolio" %}
+    {% if post.title == "portfolio" %}
       <div class="post">
         <h3 class="post-title">
           <a href="{{ site.baseurl }}/{{ post.url }}">
             {{ post.title }}
           </a>
         </h3>
+    {% endif %}
     <!--span class="post-date">{{ post.date | date_to_string }}</span>
     {{ post.content }}
-  </div>
-  {% endfor %}
-</div-->
+  </div-->
+ {% endfor %}
 </div>
 </div>
 
