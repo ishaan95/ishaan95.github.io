@@ -11,15 +11,6 @@ I enjoy teaching and have been involved as a TA for courses ranging from compute
 
 A major strength of mine is the ability to work in teams. Currently, our team at the Augmented Design Lab includes graduate as well as undergraduate students.
 
-## My project portfolio
-My projects consists of my work in procedural generation of environments for testing autonomous vehicles in simulation. There are two projects related to this: Cruzway and EvoScenario
-
-### Cruzway ([Paper](https://ieeexplore.ieee.org/abstract/document/9304625) | [Github repository](https://github.com/AugmentedDesignLab/CruzWay))
-Cruzway is a system that supports and creates scenarios for testing autonomous vehicles in Unreal Engine. This involves procedural generation of town-sized road networks and road intersections and placement of vehicles and pedestrians according to a given scenario input. Vehicle and pedestrian agents in simulation use the paradigm of behavior trees. 
-
-### EvoScenario ([Github repository](https://github.com/ishaan95/EvoScenario))
-Built on top of Cruzway, EvoScenario uses evolutionary algorithms to generate road intersections. The fitness function is the forking points metric; each point of the road splitting into multiple roads counts as a forking point. EvoScenario additionally also procedurally places vehicles on top of the generated intersections.  
-
 ### Important links
 * [Resume](assets/Ishaan_Resume02.pdf)
 * [CV](https://drive.google.com/file/d/1wSSHHOhPEksUcarIdWK0ZzWrgwMJJqLV/view?usp=sharing)
