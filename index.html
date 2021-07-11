@@ -13,9 +13,9 @@ title: Home
 <div class="posts">
   {% for post in site.posts %}
     {% if post.title == "Portfolio" %}
-     <li>
+      <h3>
        <a href="{{ post.url }}">{{ post.title }}</a>
-     </li>
+      </h3>
     {% endif %}
   {% endfor %}
 </div>
