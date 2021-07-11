@@ -12,9 +12,11 @@ title: Home
 
 <div class="posts">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    {% if post.title == "Portfolio" %}
+     <li>
+       <a href="{{ post.url }}">{{ post.title }}</a>
+     </li>
+    {% endif %}
   {% endfor %}
 </div>
 
