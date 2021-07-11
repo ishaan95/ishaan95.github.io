@@ -10,14 +10,17 @@ title: Home
       {% endif %}
     {% endfor %}
 
-
-<ul>
+<div class="posts">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+  {% if node.title == "About" %}
+    <h3>
+      <a href="{{ post.url }}">{{ post.title }}
+      Project Portfolio
+      </a>
+    </h3>
+  {% endif %}
   {% endfor %}
-</ul>
+</div>
 
 <!--div class="pagination">
   {% if paginator.next_page %}
