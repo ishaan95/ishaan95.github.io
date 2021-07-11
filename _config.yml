@@ -19,3 +19,17 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# From https://mmistakes.github.io/minimal-mistakes/docs/posts/ Copyright 2021 Michael Rose
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
