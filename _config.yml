@@ -1,15 +1,15 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Ishaan's Notes
+description: My notes as I learn new things.
+author: "Ishaan Paranjape"
 
 theme: minima
 
 base_url: /gh-pages-minima-starter
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+twitter_username: ishaanpepper
+github_username: ishaan95
+linkedin_username: ishaan-paranjape-10829b13a
 rss: rss
 
 # Minima: show excerpts in the frontpage
