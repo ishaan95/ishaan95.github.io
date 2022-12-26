@@ -1,23 +1,8 @@
 ---
 permalink: /
 layout: home
-title: Welcome
-list_title: My blog posts
 ---
+Hi, I'm Ishaan! I'm a Ph.D. candidate in [Computational Media](https://engineering.ucsc.edu/departments/computational-media/) at the [Jack Baskin School of Engineering](https://engineering.ucsc.edu) at [University of California, Santa Cruz](https://www.ucsc.edu). My research interest is primarily in simulation testing of autonomous vehicles. I have completed two Summer internships at [Ford Next](https://fordauthority.com/2022/03/ford-next-created-by-jim-farley-last-year-to-spur-av-tech-development/)(autonomous vehicle initiative) in the simulation team. During my Ph.D. program, I have been a teaching assistant (TA) and instructor for the upper division [Game Technologies](https://catalog.ucsc.edu/en/Current/General-Catalog/Courses/CMPM-Computational-Media/Upper-Division/CMPM-121) course where I had the opportunity to teach Unity and Unreal game engines. In addition, I've also been TA for several other game design and development courses.
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+My dissertation work is in procedural generation of interesting scenarios for simulation testing of autonomous vehicles. A significant project in my research was [Cruzway](https://ieeexplore.ieee.org/abstract/document/9304625) where my contribution was in the [procedural road generation tool](https://github.com/AugmentedDesignLab/Sumo2Unreal).   
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
-
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
-
-<img src="./assets/imgs/screenshot.png" width="400px">
-
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter). Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from this [contact form](https://www.jorgesanz.net/contact/).
-
-Have a great day!!
-
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages`
