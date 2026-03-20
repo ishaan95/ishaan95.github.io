@@ -4,7 +4,7 @@
 ![Inheritance in Python](/assets/imgs/class_inheritance.png)
 
 ### Timed Scheduler
-The purpose is to synchronize the end time of tasks to t=0. Tasks have dependencies. 
+The purpose is to synchronize the end time of tasks to t=0. Tasks (x) have dependencies (y). 
 ![Timed Scheduler](/assets/imgs/timed_scheduler_03.png)
 
 ### Event based Simulation
