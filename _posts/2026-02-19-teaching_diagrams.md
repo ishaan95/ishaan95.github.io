@@ -18,3 +18,10 @@ Each stage generates events which are executed as shown in the diagram above.
 ### A smart sock drawer
 We can represent this in Python using Arithmetic Dictionaries.
 ![Sock_drawer](/assets/imgs/sock_drawer_based_on_arithmetic_dictionaries.png)
+
+### Essential Built-in Composite Types in Python
+![Essential built in composite types](/assets/imgs/composite_types_Python.png)
+
+### What is an abstraction?
+An abstraction involves transforming something complex to something simple.
+![Abstractions](/assets/imgs/object_abstractions_over_data.png)
